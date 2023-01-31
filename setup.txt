@@ -1,0 +1,13 @@
+You can create a cell phone blocker using a Raspberry Pi by following these steps:
+
+1.Connect a USB GPS module to the Raspberry Pi.
+
+2.Install and configure a GPS daemon software to receive GPS signals and make the data available to other software programs.
+
+3.Install a software program that can detect and identify cell phone signals and their corresponding frequencies.
+
+4.Write a Python script that uses the GPS data to determine the location of the Raspberry Pi and the cell phone signal detection software to identify any nearby cell phone signals.
+
+5.Have the script control a relay that is connected to the Raspberry Pi and use it to switch an RF jammer on and off to block the identified cell phone signals.
+
+Note: It is illegal to use a cell phone jammer in many countries, without proper authorization from the government. Please check the laws in your area before proceeding with this project.
